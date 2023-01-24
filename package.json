@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  },
+  "name": "entregable3",
+  "version": "1.0.0",
+  "main": "ProductManager.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },                                                                                              
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
